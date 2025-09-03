@@ -1,0 +1,29 @@
+{
+  "F1": [],
+  "F2": [],
+  "F3": [],
+  "F4": [],
+  "F5": [
+    { "skill": "Mental Sign", "key": "2", "recast": 740 },
+    { "skill": "Quick Step", "key": "3", "recast": 1040 },
+    { "skill": "Haste", "key": "4", "recast": 1050 },
+    { "skill": "Heap up", "key": "5", "recast": 740 },
+    { "skill": "Cat's Reflex", "key": "6", "recast": 740 },
+    { "skill": "Beef Up", "key": "7", "recast": 740 },
+    { "skill": "Cannon Ball", "key": "8", "recast": 740 },
+    { "skill": "Accuracy", "key": "9", "recast": 740 }
+  ],
+  "F6": [
+    { "skill": "Patience", "key": "3", "recast": 740 },
+    { "skill": "Protect", "key": "4", "recast": 515 }
+  ],
+  "F7": [
+    { "skill": "Spirit Fortune", "key": "3", "recast": 94 },
+    { "skill": "Geburah Tiphreth", "key": "2", "recast": 64 }
+  ],
+  "F8": [],
+  "F9": [],
+  "F10": [],
+  "F11": [],
+  "F12": []
+}

@@ -1,0 +1,23 @@
+{
+  "tiger": {
+    "img": "tiger"
+  },
+  "dragon": {
+    "img": "dragon"
+  },
+  "unicorn": {
+    "img": "unicorn"
+  },
+  "lion": {
+    "img": "lion"
+  },
+  "rabbit": {
+    "img": "rabbit"
+  },
+  "griff": {
+    "img": "griff"
+  },
+  "fox": {
+    "img": "fox"
+  }
+}
