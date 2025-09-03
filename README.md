@@ -28,7 +28,7 @@ Ideal for learning automation with Python and experimenting with game bots in a 
 <ul>
   <li>Python</li>
   <li>PyAutoGUI</li>
-  <li>PyWin32 (for Windows window interactions)</li>
+  <li>PyWin32 (for Windows interactions)</li>
 </ul>
 
 <h2>Setup</h2>
