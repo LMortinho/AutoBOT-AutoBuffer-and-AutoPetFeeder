@@ -4,9 +4,16 @@
 
 <h2>Description</h2>
 <p>
-Tool designed to automate repetitive tasks in the MMORPG <strong>FlyFF</strong>. 
-It uses <strong>PyAutoGUI</strong> to recognize in-game elements and simulate player actions, helping with pet feeding, healing, and buff management. 
-Ideal for learning automation with Python and experimenting with game bots in a safe, educational environment.
+Tool designed to automate healing and support tasks in the MMORPG FlyFF using PyAutoGUI.  
+It recognizes in-game elements (HP/MP bars, buff icons, pet hunger) and automatically heals the tank/main DPS, reapplies buffs, and feeds your pet.
+
+Perfect for when:
+- Your usual healer friend is offline (again)
+- Nobody on your level wants to help with that annoying quest/dungeon
+- You just want to keep farming 24/7 without begging in /shout for a FS or RM
+
+Great for learning Python automation and computer vision in a real (but safe and educational) project.
+Use at your own risk – botting violates ToS on most official/private servers.
 </p>
 
 <h2>Features</h2>
@@ -68,5 +75,13 @@ but in this case VSCode itself must be running as Administrator. (This was the e
 <ul>
   <li>This bot is intended <strong>for educational and experimental purposes only</strong>.</li>
   <li>Some FlyFF servers may not allow the use of bots or automation tools. 
-<br>(Users should check the rules of the specific server they are playing on before using this bot to ensure it is permitted.)</li>
+<br>(Users should check the rules of the specific server they are playing on before using this bot to ensure it is permitted.)
+  Important note: I built and fine-tuned this bot 100% for my own setup — that means skill order, hotkey positions (F1–F8, 1–0, etc.), and even click locations are currently hardcoded to exactly how I have my UI and bars configured.
+<br>
+So the most common "tricky" part for you will probably be:
+- Remapping the hotkeys to match yours
+- Changing the skill order/priority
+- Adjusting click coordinates if your game resolution or window size is different
+
+All of that is totally doable and not complicated at all! if you get stuck or want it to work perfectly with your exact bar setup, just DM me with a screenshot of your hotkeys and I’ll help you customize it in 5 minutes so it works perfectly for you too!</li>
 </ul>
