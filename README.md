@@ -78,7 +78,7 @@ but in this case VSCode itself must be running as Administrator. (This was the e
 <br>(Users should check the rules of the specific server they are playing on before using this bot to ensure it is permitted.)
   Important note: I built and fine-tuned this bot 100% for my own setup — that means skill order, hotkey positions (F1–F8, 1–0, etc.), and even click locations are currently hardcoded to exactly how I have my UI and bars configured.
 <br>
-So the most common "tricky" part for you will probably be:
+<li>So the most common "tricky" part for you will probably be:
 - Remapping the hotkeys to match yours
 - Changing the skill order/priority
 - Adjusting click coordinates if your game resolution or window size is different
